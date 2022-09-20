@@ -1,1 +1,9 @@
-# Empty CSS file for your own CSS
+
+#myPicture{
+    margin-left: auto;
+    display: block;
+   
+    width: 500px;
+    
+    margin-right: auto;
+}
